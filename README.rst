@@ -1,5 +1,5 @@
-.. image:: https://secure.travis-ci.org/stephenmcd/django-forms-builder.png?branch=master
-   :target: http://travis-ci.org/#!/stephenmcd/django-forms-builder
+.. image:: https://secure.travis-ci.org/elo80ka/django-forms-builder.png?branch=master
+   :target: http://travis-ci.org/#!/elo80ka/django-forms-builder
 
 django-forms-builder
 ====================
@@ -9,17 +9,16 @@ Created by `Stephen McDonald <http://twitter.com/stephen_mcd>`_
 A Django reusable app providing the ability for admin users to create
 their own forms within the admin interface, drawing from a range of
 field widgets such as regular text fields, drop-down lists and file
-uploads. Options are also provided for controlling who gets sent email
-notifications when a form is submitted. All form entries are made
-available in the admin via filterable reporting with CSV/XLS export.
+uploads. All form entries are made available in the admin via filterable
+reporting with CSV/XLS export.
 
 Form builder:
 
-.. image:: http://github.com/stephenmcd/django-forms-builder/raw/master/docs/img/fields.png
+.. image:: http://github.com/elo80ka/django-forms-builder/raw/master/docs/img/fields.png
 
 Data reporting:
 
-.. image:: http://github.com/stephenmcd/django-forms-builder/raw/master/docs/img/report.png
+.. image:: http://github.com/elo80ka/django-forms-builder/raw/master/docs/img/report.png
 
 
 HTML5 Features
